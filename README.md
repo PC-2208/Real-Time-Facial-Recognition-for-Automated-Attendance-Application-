@@ -43,7 +43,7 @@ The datetime module is part of Python’s standard library, so you don’t need 
 5. Attendance is marked and saved in an Excel file.
 6. Camera closes after 30 minutes, and the UI closes after 55 minutes.
 
-# What Makes Your App Better Than Others
+# What Makes Our App Better Than Others
 | Our App                           | Other Apps            |
 | ---------------------------------- | --------------------- |
 | Real-time scanning every 3 seconds | Mostly one-time scan  |
