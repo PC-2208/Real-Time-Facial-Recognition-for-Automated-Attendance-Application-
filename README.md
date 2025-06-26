@@ -12,20 +12,28 @@ Real-Time Facial Recognition System for taking automated attendance in classroom
 
 # Required Libraries for Installation
 1. Install OpenCV (for camera and image processing)
-   'pip install opencv-python'
+   ```python
+   pip install opencv-python
 2. Install face recognition (for recognizing student faces)
-    'pip install face-recognition'
+   ```python
+    pip install face-recognition'
 3. Install NumPy (for numeric operations)
-   'pip install numpy'
+   ```python
+   pip install numpy
 4. Install Pandas (for handling Excel sheets/dataframes)
-   'pip install pandas'
+   ```python
+   pip install pandas
 5. Install Streamlit (for building the UI)
-   'pip install streamlit'
+   ```python
+   pip install streamlit
 6. Install datetime
+
 The datetime module is part of Python’s standard library, so you don’t need to install it.
+
     'import datetime'
-You can install them all using:
-'pip install -r requirements.txt'
+7. You can install them all using:
+      ```python
+      pip install -r requirements.txt
 
 # How It Works
 1. Teacher logs in and enters subject details.
@@ -36,7 +44,7 @@ You can install them all using:
 6. Camera closes after 30 minutes, and the UI closes after 55 minutes.
 
 # What Makes Your App Better Than Others
-| Your App                           | Other Apps            |
+| Our App                           | Other Apps            |
 | ---------------------------------- | --------------------- |
 | Real-time scanning every 3 seconds | Mostly one-time scan  |
 | Auto-rescan every 10 minutes       | Not available         |
@@ -63,6 +71,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 # Contact
 Project Owner: Priyanshi Chaudhary
+
 Email: priyanshichaudhary2015@gmail.com 
 
 
